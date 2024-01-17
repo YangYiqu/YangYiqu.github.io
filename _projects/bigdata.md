@@ -8,3 +8,5 @@ excerpt: "- I participated in the GPT training project for the Shenzhen Talent B
 collection: projects
 ---
 
+[Download Internship Certificate here](http://yangyiqu.github.io/files/实习证明-杨易趣-用章.pdf)
+
