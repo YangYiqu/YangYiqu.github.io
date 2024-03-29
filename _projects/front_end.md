@@ -30,6 +30,7 @@ File Upload: (Users can upload multiple audio files in various formats)
 - Display of final result
  <br/><img src='/images/effectpic.jpg'>
 
+<video src="/files/使用实例视频.mp4"></video>
  This project won the undergraduate Research Award, for more info：
  - [Download URA Completion form here](../files/URA_Completion_Form_YangYiqu.pdf)
  - [Download URA award letter here](../files/URA_award.pdf)
