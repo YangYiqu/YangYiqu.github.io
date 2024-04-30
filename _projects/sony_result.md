@@ -11,5 +11,8 @@ excerpt: "- I have participated in and been responsible for implementing the fee
 collection: projects
 ---
 
-[Download sony_summary_final_version.pptx here](http://yangyiqu.github.io/files/sony_summary_final_version.pptx)
-
+- [Download sony_summary_final_version.pptx here](http://yangyiqu.github.io/files/sony_summary_final_version.pptx)
+  
+- Video Demo
+ <br/><video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="/files/sony_demo.mp4" type="video/mp4"> </video>
