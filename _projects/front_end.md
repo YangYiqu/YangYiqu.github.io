@@ -9,7 +9,7 @@ excerpt: "- I am responsible for the development of a web-based interactive and 
 <br/><img src='/images/waveform.png'> 
 
 (***Click the title to get more info.***)"
-collection: portfolio
+collection: projects
 ---
 Key features of the project include:
 1. File Upload: Users can upload multiple audio files in various formats.
