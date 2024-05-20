@@ -17,14 +17,12 @@ return volatility in China’s A-share market and to enhance the Markowitz Mean-
 Model by introducing ESG scores to study their impact on Mean-Variance investors’ pref-
 erences.
 
-
     Regarding our first research question, we constructed regressions, and the results con-
 firmed that companies with higher ESG scores tend to exhibit lower stock volatility. This
 finding has significant implications for both companies and investors. By using ESG ratings
 as a reference, companies can better optimize management structures, plan for long-term
 development, instill confidence in the market, and investors can choose more stable strate-
 gies and construct less volatile portfolios.
-
 
     Furthermore, considering the impact of ESG on volatility, we posed our second research
 question. We incorporated ESG performance considerations and introduced ESG tilt to
