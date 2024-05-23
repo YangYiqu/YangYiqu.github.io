@@ -12,3 +12,7 @@ collection: projects
 ---
 
 - [Download Handwriting_Style_Extraction_Presentation.pdf here](http://yangyiqu.github.io/files/DDA4210_pre.pdf)
+
+- [Download Handwriting_Style_Extraction_Final_report.pdf here](http://yangyiqu.github.io/files/Report_Group_7.pdf)
+
+- [Click here for more information (Github)](https://github.com/caigun/GAN-Based-Handwriting-Generative-Model)
