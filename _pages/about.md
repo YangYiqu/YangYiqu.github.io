@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am currently a third-year undergraduate student at the [School of SDS](https://sds.cuhk.edu.cn/) of [The Chinese university of Hong Kong(ShenZhen)](https://www.cuhk.edu.cn/zh-hans). During the fall term of the academic year 22-23, I had the valuable opportunity to study as a visiting student at the Chinese University of Hong Kong.
 
-Research Interest
+<!-- Research Interest
 ======
 
 For more info
 ------
-You can find my Chinese-version CV here: [Yang Yiqu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my Chinese-version CV here: [Yang Yiqu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 
 [Email](mailto:121090711@link.cuhk.edu.cn) / [Github](https://github.com/YangYiqu) / [Wechat](../images/wechat.jpg) 
