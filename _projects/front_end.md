@@ -35,6 +35,6 @@ File Upload: (Users can upload multiple audio files in various formats)
       <source id="mp4" src="/files/使用实例视频.mp4" type="video/mp4"> </video>
 
  This project won the undergraduate Research Award, for more info：
- - [Download URA Completion form here](../files/URA_Completion_Form_YangYiqu.pdf)
- - [Download URA award letter here](../files/URA_award.pdf)
- - [Download Internship Certificate here](../files/mellab.pdf)
+ - [Download URA Completion form here](http://yangyiqu.github.io/files/URA_Completion_Form_YangYiqu.pdf)
+ - [Download URA award letter here](http://yangyiqu.github.io/files/URA_award.pdf)
+ - [Download Internship Certificate here](http://yangyiqu.github.io/files/mellab.pdf)
