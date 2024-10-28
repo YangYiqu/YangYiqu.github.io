@@ -1,5 +1,5 @@
 ---
-title: "2024 Mathorcup mathematics modeling contest"
+title: "2024 Mathematical Contest In Modeling"
 excerpt: ""
 collection: portfolio
 ---

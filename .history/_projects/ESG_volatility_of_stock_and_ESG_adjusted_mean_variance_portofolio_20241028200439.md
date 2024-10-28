@@ -2,7 +2,9 @@
 title: "ESG stock volatility and ESG adjusted Mean Variance Portfolio"
 excerpt: "
 **Research Question:**
+
 - Verify the impact of corporate ESG scores on stock return volatility in China’s A-share market.
+
 - Introduce ESG Scores to improve the Markowitz Mean Variance Model and study the impact of ESG on mean variance investors' preference.
 
 <br/><img src='/images/efficient_frontier.png'>
@@ -32,7 +34,9 @@ those findings, we provided different investing options for diverse profile inve
 In conclusion, our study provides valuable insights into the relationship between the
 ESG scores and stock return and volatility in China’s A-share market, highlighting the
 importance of considering ESG factors for both companies and investors, and proposing a
-mean-variance model that incorporates ESG factors for investors for consideration
+mean-variance model that incorporates ESG factors for investors for consideration.
+
+We conducted extensive research on the topic "ESG Impact on Stock and Mean-Variance Portfolio: Evidence from China’s A-share Market" and authored a detailed paper that has been submitted to the Journal of Research in International Business and Finance, where I am a co-first author. The paper is currently under review.
 
 
 [Click here for more information (Github)](https://github.com/YangYiqu/Unlocking-A-Share-Market-Dynamics-Exploring-ESG-Impact-on-Volatility-and-Mean-Variance-Portfolio)
