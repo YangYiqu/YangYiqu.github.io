@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Yang Yiqu"
   avatar           : "profile.png"
-  bio              : "The Chinese University of Hong Kong (Shen Zhen) Undergraduate"
+  bio              : "Undergraduate, DSBDT, CUHKSZ"
   location         : "Shen Zhen"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "121090711@link.cuhk.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "mailto:121090711@link.cuhk.edu.cn"
+  researchgate     :  # "https://www.researchgate.net/profile/Yiqu-Yang-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "/profile.php?id=61550773685180"
   foursquare       :
   github           : "YangYiqu"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
       author_profile: true
       share: true
 
