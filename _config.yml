@@ -88,7 +88,7 @@ author:
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :  "mailto:121090711@link.cuhk.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Yiqu-Yang-2" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # "https://www.researchgate.net/profile/Yiqu-Yang-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
